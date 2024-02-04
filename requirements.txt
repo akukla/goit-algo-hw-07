@@ -1,0 +1,6 @@
+networkx
+jupyter
+jupyterlab
+matplotlib
+pydot
+graphviz
